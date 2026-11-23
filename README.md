@@ -22,9 +22,15 @@ I build backend systems and APIs in Python, with growing interests in machine le
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
+## ✍️ Technical Writing
+I write about software development, programming concepts, technical lessons, and things I learn along the way.
+
+- 📝 [Medium](https://medium.com/@polore-oyeniji)
+- ✍️ [Substack]([YOUR_SUBSTACK_URL](https://substack.com/@poloreoyeniji)
+
+
 ## 📫 Let's Connect
 - LinkedIn: [Oluwapolore Oyeniji](https://www.linkedin.com/in/poloreoyeniji)
-- Medium: [Oluwapolore Oyeniji](https://medium.com/@poloreoyeniji)
 - Email: [polore.oyeniji@gmail.com](mailto:polore.oyeniji@gmail.com)
 
 
