@@ -24,7 +24,7 @@ I build backend systems and APIs in Python, with growing interests in machine le
 
 ## 📫 Let's Connect
 - LinkedIn: [Oluwapolore Oyeniji](https://www.linkedin.com/in/poloreoyeniji)
-- Medium: [@polore-oyeniji](https://medium.com/@polore-oyeniji)
+- Medium: [@polore-oyeniji](https://medium.com/@poloreoyeniji)
 - Email: [polore.oyeniji@gmail.com](mailto:polore.oyeniji@gmail.com)
 
 
