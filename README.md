@@ -26,7 +26,7 @@ I build backend systems and APIs in Python, with growing interests in machine le
 I write about software development, programming concepts, technical lessons, and things I learn along the way.
 
 - 📝 [Medium](https://medium.com/@polore-oyeniji)
-- ✍️ [Substack]([YOUR_SUBSTACK_URL](https://substack.com/@poloreoyeniji)
+- ✍️ [Substack](https://substack.com/@poloreoyeniji)
 
 
 ## 📫 Let's Connect
