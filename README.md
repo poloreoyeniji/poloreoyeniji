@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Polore
 
-**Backend Engineer in training | Mechanical Engineering Graduate | Diploma in Computer Science**
+**Backend Engineer | Mechanical Engineering Graduate | Diploma in Computer Science**
 
 I build backend systems and APIs in Python, with growing interests in machine learning and AI. I'm looking for backend engineering internships (and ML/AI roles).
 
